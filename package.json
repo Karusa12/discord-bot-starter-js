@@ -1,0 +1,35 @@
+{
+  "name": "karusa-project",
+  "version": "1.0.0",
+  "description": "Public bot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karusa12/karusa-project.git"
+  },
+  "author": "Karusa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Karusa12/karusa-project/issues"
+  },
+  "homepage": "https://github.com/Karusa12/karusa-project#readme",
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/express": "^5.0.1",
+    "@types/mongoose": "^5.11.96",
+    "@types/node-cron": "^3.0.11",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1",
+    "node-cron": "^3.0.3"
+  }
+}
