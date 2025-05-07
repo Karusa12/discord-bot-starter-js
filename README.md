@@ -33,7 +33,7 @@
 **FR :** Voici une vue d'ensemble de l'architecture du projet :
 
 ```
-karusa-project/
+discord-bot-starter-js/
 ├── src/
 │   ├── api/                     # API REST et WebSocket
 │   │   ├── controllers/         # Contrôleurs pour les routes API
@@ -60,7 +60,7 @@ karusa-project/
 **EN :** Here is an overview of the project architecture:
 
 ```
-karusa-project/
+discord-bot-starter-js/
 ├── src/
 │   ├── api/                     # REST API and WebSocket
 │   │   ├── controllers/         # Controllers for API routes
@@ -108,7 +108,7 @@ karusa-project/
 
    ```bash
    git clone https://github.com/Karusa12/discord-bot-starter-js
-   cd karusa-project
+   cd discord-bot-starter-js
    ```
 
 2. Installez les dépendances :
@@ -149,7 +149,7 @@ karusa-project/
 
    ```bash
    git clone https://github.com/Karusa12/discord-bot-starter-js
-   cd karusa-project
+   cd discord-bot-starter-js
    ```
 
 2. Install dependencies:
