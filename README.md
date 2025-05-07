@@ -107,7 +107,7 @@ karusa-project/
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/Karusa12/karusa-project.git
+   git clone https://github.com/Karusa12/discord-bot-starter-js
    cd karusa-project
    ```
 
@@ -148,7 +148,7 @@ karusa-project/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Karusa12/karusa-project.git
+   git clone https://github.com/Karusa12/discord-bot-starter-js
    cd karusa-project
    ```
 
