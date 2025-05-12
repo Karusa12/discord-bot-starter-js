@@ -1,5 +1,5 @@
 {
-  "name": "karusa-project",
+  "name": "discord-bot-starter-js",
   "version": "1.0.0",
   "description": "Public bot discord",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Karusa12/karusa-project.git"
+    "url": "git+https://github.com/Karusa12/discord-bot-starter-js.git"
   },
   "author": "Karusa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Karusa12/karusa-project/issues"
+    "url": "https://github.com/Karusa12/discord-bot-starter-js/issues"
   },
-  "homepage": "https://github.com/Karusa12/karusa-project#readme",
+  "homepage": "https://github.com/Karusa12/discord-bot-starter-js#readme",
   "devDependencies": {
     "@types/dotenv": "^6.1.1",
     "@types/express": "^5.0.1",
